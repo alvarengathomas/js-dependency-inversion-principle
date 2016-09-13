@@ -1,0 +1,32 @@
+{
+  "name": "dip-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plenitudesoftware/js-dependency-inversion-principle.git"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "es6",
+    "abstraction",
+    "javascript",
+    "dip",
+    "principle"
+  ],
+  "author": "Thomás Alvarenga (alvarenga.thomas@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plenitudesoftware/js-dependency-inversion-principle/issues"
+  },
+  "homepage": "https://github.com/plenitudesoftware/js-dependency-inversion-principle#readme",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0"
+  }
+}
